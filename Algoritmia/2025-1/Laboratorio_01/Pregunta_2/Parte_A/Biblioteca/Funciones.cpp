@@ -89,7 +89,6 @@ void procesarCombinaciones(const int presupuesto, const struct Recurso_de_Seguri
                         not combinaciones[recursos[i].implementaciones[k]]) {
                         // Si falta una implementación requerida, la combinación no es válida.
                         combinacion_valida = false;
-                        combinacion_valida = false;
                         break;
                     }
                 }
@@ -123,4 +122,5 @@ void imprimir_combinacion(const int iteracion, const int *combinaciones,
     }
     cout << "| Costo: " << costo_total << " miles" << endl;
 }
+
 
