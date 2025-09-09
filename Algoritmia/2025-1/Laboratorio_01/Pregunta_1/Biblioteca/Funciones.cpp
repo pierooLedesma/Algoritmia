@@ -13,7 +13,6 @@
 // Módulo que almacena en cada índice del arreglo "combinaciones" consecutivamente
 // cada dígito de la representación de un número (en decimal) a cierta base.
 void cargarCombinacion(int numero, int base, int *combinaciones) {
-    for (int i=0; i<base; i++) combinaciones[i] = 0; // Inicializar el arreglo.
     int i=0;
     while (numero > 0) {
         combinaciones[i++] = numero % base; // Guardar el resto en el índice "i" del arreglo.
@@ -56,6 +55,7 @@ void calcular_la_solucion_optima(
         /***************************************************************************/
 
         int combinaciones[cant_tablas]; // " combinaciones[i] " indica en qué disco se asigna la tabla "i".
+        for (int j=0; j<cant_tablas; j++) combinaciones[j] = 0; // Inicializar el arreglo "combinaciones".
 
         // Convierte el número "iteracion" a base "cant_discos" y lo guarda en "combinaciones[]".
         // Por ejemplo, iteracion = 5, se convierte el número 5 a la base 3 (cant_discos).
@@ -189,4 +189,5 @@ void elaborar_lineas() {
     for (int i=0; i<24; i++) cout.put('-');
     cout << endl;
 }
+
 
