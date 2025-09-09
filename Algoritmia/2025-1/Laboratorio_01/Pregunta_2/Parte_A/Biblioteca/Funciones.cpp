@@ -97,9 +97,9 @@ void procesarCombinaciones(const int presupuesto, const struct Recurso_de_Seguri
             }
         }
 
-        // Si la combinación es válida y el costo está dentro del rango permitido.
+        // Si la combinación es válida y el costo total está dentro del rango permitido.
         if (combinacion_valida and costo_total <= limite_superior and costo_total >= limite_inferior) {
-            // Imprimimir la combinación y su costo.
+            // Imprimir la combinación y su costo total.
             imprimir_combinacion(iteracion, combinaciones, MAX_RECURSOS, costo_total);
             contador_combinaciones_validas++;
         }
@@ -122,5 +122,6 @@ void imprimir_combinacion(const int iteracion, const int *combinaciones,
     }
     cout << "| Costo: " << costo_total << " miles" << endl;
 }
+
 
 
