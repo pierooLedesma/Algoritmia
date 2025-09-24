@@ -1,0 +1,3 @@
+C:/Algoritmia_Archivos/Pregunta_1/cmake-build-debug/CMakeFiles/Pregunta_1.dir
+C:/Algoritmia_Archivos/Pregunta_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algoritmia_Archivos/Pregunta_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
