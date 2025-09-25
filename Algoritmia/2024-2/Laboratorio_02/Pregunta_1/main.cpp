@@ -3,7 +3,7 @@
 /*
  * Archivo: main.cpp
  * Autor: Alessandro Piero Ledesma Guerra - 20217340
- * Fecha Miércoles 24 de septiembre del 2025
+ * Fecha: Miércoles 24 de septiembre del 2025
  */
 
 #include <iostream>
