@@ -97,7 +97,7 @@ int contarGrupos(ElementoPila efectivos[], int n_efectivos) {
 
     // Recorrer cada efectivo como posible líder (un único bucle sobre "n_efectivos").
     for (int i = 0; i < n_efectivos; i++) {
-        // 1. Cada efectivo siempre forma la agrupación trivial {i} -> contamos 1.
+        // 1. Cada efectivo siempre forma la agrupación trivial {i} -> contar 1.
         total++; // cuenta {i}
 
         // 2. Guardar el líder en una variable para pasarla a la recursión.
@@ -138,6 +138,7 @@ int main() {
 /*
  * Este fue el primer módulo que se me ocurrió de "contarGrupos", pero se usa
  * iteraciones anidadas donde ambas recorren los "n" datos (n_efectivos).
+ * Descarto este módulo por lo mencionado anteriormente.
 int contarGrupos(ElementoPila arr[], int n_efectivos) {
     int total = 0;
     Pila auxiliar;
