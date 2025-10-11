@@ -1,0 +1,3 @@
+C:/Algoritmia_Archivos/DuDuDu_Hanoi/cmake-build-debug/CMakeFiles/DuDuDu_Hanoi.dir
+C:/Algoritmia_Archivos/DuDuDu_Hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algoritmia_Archivos/DuDuDu_Hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
