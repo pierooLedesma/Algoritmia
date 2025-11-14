@@ -1,0 +1,3 @@
+C:/Algoritmia_Archivos/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
+C:/Algoritmia_Archivos/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algoritmia_Archivos/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
