@@ -1,3 +1,0 @@
-C:/Algoritmia_Archivos/ArbolAVL/cmake-build-debug/CMakeFiles/ArbolAVL.dir
-C:/Algoritmia_Archivos/ArbolAVL/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Algoritmia_Archivos/ArbolAVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
