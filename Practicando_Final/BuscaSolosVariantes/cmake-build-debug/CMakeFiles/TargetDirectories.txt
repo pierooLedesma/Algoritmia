@@ -1,0 +1,3 @@
+C:/Algoritmia_Archivos/Practicando_Final/BuscaSolosVariantes/cmake-build-debug/CMakeFiles/BuscaSolosVariantes.dir
+C:/Algoritmia_Archivos/Practicando_Final/BuscaSolosVariantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algoritmia_Archivos/Practicando_Final/BuscaSolosVariantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
